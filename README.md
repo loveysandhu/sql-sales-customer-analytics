@@ -1,3 +1,6 @@
+## Database Schema
+
+![Schema](schema.png)
 # SQL Sales & Customer Analytics
 
 ## Overview
