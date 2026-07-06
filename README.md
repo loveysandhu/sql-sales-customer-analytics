@@ -11,10 +11,8 @@ This project analyzes customers, employees, products, and sales data using MySQL
 - Orders
 - Order Details
 - Products
-- Categories
 - Employees
 - Offices
-- Payments
 
 ## SQL Concepts Used
 - Joins
